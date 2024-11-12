@@ -10,7 +10,7 @@ Welcome to our capstone project repo! Here, we’re transforming raw data into m
 - **University:** Adventist University of Central Africa (AUCA)
 - **Course:** Database Development with PL/SQL (INSY 8311)
 - **Year:** 2024-2025
-- **Lecturer:** Eric Maniraguha
+- **Lecturer:** Eric Maniraguha [LinkedIn](https://www.linkedin.com/in/ericmaniraguha/)
 
 We're a team of passionate learners diving into **real-world database design** and **PL/SQL programming** to tackle complex problems. Join us on this journey, where we’ll:
   - Define problems that only databases can solve (Phase 1: 🎯 Problem Statement).
